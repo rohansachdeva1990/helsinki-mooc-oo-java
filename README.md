@@ -1,2 +1,3 @@
-# helsinki-mooc-oo-java
-Solutions for Helsinki MOOC  Java
+# Java Helsinki MOOC Solutions
+
+https://java-programming.mooc.fi/
